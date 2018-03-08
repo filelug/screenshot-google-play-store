@@ -1,1 +1,1 @@
-"# screenshot-google-play-store" 
+# screenshot-google-play-store
